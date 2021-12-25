@@ -1,5 +1,5 @@
 .navbar-fixed-top {
-    background-color: #ff0000;
+    background-color: #a91212;
     border: #000000;
 
 
@@ -28,6 +28,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9ad6f', end
 }
 
 .results {
+background: #a91212;
 color: #ffffff;
 
 }
